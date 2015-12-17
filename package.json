@@ -1,0 +1,24 @@
+{
+  "name": "mdlz_fr_export_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rm_duplicates.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13",
+    "line-by-line": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andreylushchick-planorama/mdlz_rm_duplicates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreylushchick-planorama/mdlz_rm_duplicates/issues"
+  },
+  "homepage": "https://github.com/andreylushchick-planorama/mdlz_rm_duplicates#readme"
+}
